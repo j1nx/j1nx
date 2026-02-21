@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/peter-steenbergen-762606351/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://www.youtube.com/@j1nxxxy"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
 </div>
 
 ###
@@ -26,17 +26,17 @@ My work focuses on making voice assistants that run locally, without cloud depen
 ### OpenVoiceOS
 Open, modular, privacy-respecting voice assistant platform designed for local and embedded deployment.
 
-https://openvoiceos.org
+[OpenVoiceOS](https://openvoiceos.org)
 
 ### MycroftOS
 Embedded Linux operating system built with Buildroot for voice assistant devices.
 
-https://community.home-assistant.io/t/mycroftos-a-bare-minimal-production-type-of-os-based-on-buildroot-inspired-by-hassos/165878
+[MycroftOS](https://community.home-assistant.io/t/mycroftos-a-bare-minimal-production-type-of-os-based-on-buildroot-inspired-by-hassos/165878)
 
 ### ovos-buildroot
 Buildroot integration and tooling for OpenVoiceOS deployment on embedded systems.
 
-https://github.com/OpenVoiceOS/ovos-buildroot
+[Buildroot](https://github.com/OpenVoiceOS/ovos-buildroot)
 
 ---
 
